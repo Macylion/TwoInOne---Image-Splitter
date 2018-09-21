@@ -7,10 +7,20 @@ ___
 <script src="jquery-3.3.1.min.js"></script>
 <script src="jquery-ui.min.js"></script>
 ```
+###### Or hosted
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+```
 #### Install TwoInOne
 ```html
 <link rel="stylesheet" href="twoInOne.min.css">
 <script src="twoInOne.min.js"></script>
+```
+###### Or Hosted
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/Macylion/TwoInOne---Image-Splitter/4e231387/TwoInOne/twoInOne.min.css">
+<script src="https://cdn.rawgit.com/Macylion/TwoInOne---Image-Splitter/4e231387/TwoInOne/twoInOne.min.js"></script>
 ```
 ## Using
 ___
