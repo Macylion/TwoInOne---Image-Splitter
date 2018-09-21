@@ -1,6 +1,6 @@
 # TwoInOne - Image Splitter
 
-## Installation
+## How to install?
 ___
 #### Install jquery
 ```html
@@ -24,7 +24,7 @@ ___
 ```
 ### Example
 [Example at codepen.io](https://codepen.io/maciejkubus/pen/KxEeLQ)
-## Using
+## How to use?
 ___
 #### Adding a Image Splitter 
 ```javascript
