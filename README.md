@@ -34,11 +34,11 @@ App.add('#container', 'img1.png', 'img2.png');
 ```javascript
 App.add('#container', 'img1.png', 'img2.png', 'center');
 ```
-#### Adding a spacer image 
+#### Adding a spacer icon
 ```javascript
 App.add('#container', 'img1.png', 'img2.png', 'center', 'spacer.png');
 ```
-#### Stylizing a spacer bar 
+#### Stylizing a spacer 
 ```css
 .tio-stick{
   background-color: white;
