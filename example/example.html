@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Two In One Example</title>
+		<!--JQuery-->
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+		<!--TwoInOne-->
+		<link rel="stylesheet" href="css/twoInOne.css">
+		<script type="text/javascript" src="js/twoInOne.js"></script>
+
+		<style type="text/css">
+			body{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				background-color: rgb(238, 238, 238);
+				padding-top: 96px;
+			}
+			#ad, #cont, #cont2{
+				margin-bottom: 96px;
+				border-radius: 24px;
+				box-shadow: 0 0 12px black;
+				overflow: hidden;
+			}
+			#cont2 .tio-stick{
+				background-color: white;
+				border: 2px dotted red;
+			}
+		</style>
+	</head>
+	<body>	
+		<div id="ad" style="width: 600px; height: 200px;">
+		</div>
+		<div id="cont" style="width: 80vw; height: 80vh;">
+		</div>
+		<div id="cont2" style="width: 80vw; height: 80vh">
+		</div>
+		<script type="text/javascript">
+			App.add('#ad', 'img/2.png', 'img/02.png', 'center', 'img/2s.png');
+			App.add('#cont', 'img/1.jpg', 'img/01.jpg', 'right', 'img/1s.png');
+			App.add('#cont2', 'img/3.jpg', 'img/03.jpg');
+		</script>
+	</body>
+</html>
