@@ -23,7 +23,7 @@ ___
 <script src="https://cdn.rawgit.com/Macylion/TwoInOne---Image-Splitter/4e231387/TwoInOne/twoInOne.min.js"></script>
 ```
 ### Example
->[codepen.io] (https://codepen.io/maciejkubus/pen/KxEeLQ)
+[Example at codepen.io](https://codepen.io/maciejkubus/pen/KxEeLQ)
 ## Using
 ___
 #### Adding a Image Splitter 
