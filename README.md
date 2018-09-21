@@ -40,7 +40,7 @@ App.add('#container', 'img1.png', 'img2.png', 'center', 'spacer.png');
 ```
 #### Stylizing a spacer bar 
 ```css
-#container .tio-stick{
+.tio-stick{
   background-color: white;
   border: 2px dotted red;
 }
