@@ -57,7 +57,7 @@ ___
 - spacerPosition (optional)
   - String
   - Example ```'left'``` ```'center'``` ```'right'```
-- spacerIcon
+- spacerIcon (optional)
   - String
   - Example ```'spacer-icon.png'```
 ## Simple and Easy 👌👍😆❤️❤️
