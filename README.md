@@ -49,7 +49,10 @@ App.add('#container', 'img1.png', 'img2.png', 'center', 'spacer.png');
 ```
 ## Mini-Documentation
 ___
-#### App.add(firstImage, secondImage, spacerPosition, spacerIcon)
+#### App.add(containerDiv, firstImage, secondImage, spacerPosition, spacerIcon)
+- containerDiv
+  - String
+  - Example ```'#cont'```
 - firstImage
   - String
   - Example ```'img.png'```
