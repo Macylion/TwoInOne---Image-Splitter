@@ -65,4 +65,4 @@ ___
 - spacerIcon (optional)
   - String
   - Example ```'spacer-icon.png'```
-## Simple and Easy 👌👍😆❤️❤️
+## Simple and Easy
